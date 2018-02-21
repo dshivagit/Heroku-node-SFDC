@@ -1,0 +1,30 @@
+{
+  "name": "SalesForce_Integration",
+  "version": "1.0.0",
+  "description": "Salesforce OAuth2 Implementation",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Index.js"
+  },
+  "author": "Shiva",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.1",
+    "connect-multiparty": "^2.0.0",
+    "consolidate": "^0.15.0",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.7.1",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-session": "^1.13.0",
+    "http-status": "^0.2.3",
+    "jsforce": "^1.8.0",
+    "moment": "^2.13.0",
+    "morgan": "^1.7.0",
+    "node-fs": "^0.1.7",
+    "process-watch": "^0.3.1",
+    "trimmer": "*",
+    "util": "^0.10.3"
+  }
+}
